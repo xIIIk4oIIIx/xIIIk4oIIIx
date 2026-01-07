@@ -1,56 +1,41 @@
-# Hi there, I'm k4o 👋
+# ⚡ Hello World, I'm k4o
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=300&section=header&text=React%20Developer&fontSize=90" />
-</p>
-
-### 💫 About Me
-- 🔭 I’m currently working on **React & Next.js projects**
-- ⚡ Fun fact: **I treat CSS like art.**
-- 📫 Reach me at: **twoj@email.com**
-
----
-
-### 🛠 My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,mongodb,figma,vercel" />
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=61DBFB&center=true&vCenter=true&width=600&lines=Fullstack+React+Developer;Creative+UI%2FUX+Designer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Live)
+### 💻 My React Ecosystem
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,threejs,vite,vercel" />
 </p>
 
 ---
 
-### 🎵 Currently Playing / Last Played
+### 🛠️ Coders Performance
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TWOJ_NICK]&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DBFB&icon_color=61DBFB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TWOJ_NICK]&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DBFB&icon_color=61DBFB" />
+</div>
+
+---
+
+### 🔥 GitHub Streak & Activity
 <p align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=TWOJE_ID_SPOTIFY&cover_image=true&theme=novatorem" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TWOJ_NICK]&theme=react&hide_border=true&background=0D1117&ring=61DBFB&fire=61DBFB" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TWOJ_NICK&theme=react-dark)
+### 🎬 Featured Projects
+| Project | Preview | Tech Stack |
+| :--- | :---: | :--- |
+| **Cool App** | [Link](https://twoj-projekt.pl) | `React` `TS` `Framer Motion` |
+| **Dashboard** | [Link](https://twoj-dash.pl) | `Next.js` `Zustand` `Tailwind` |
 
-<!--
-**xIIIk4oIIIx/xIIIk4oIIIx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/render?type=rect&color=61DBFB&height=20&section=footer" width="100%" />

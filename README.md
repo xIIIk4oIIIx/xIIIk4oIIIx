@@ -14,6 +14,45 @@
 
 ---
 
+### 🇵🇱 Certyfikaty Zawodowe 🎓
+
+* **Umiejętności Jutra AI (Google & SGH)** – Zaawansowany, 5-tygodniowy program kohortowy skoncentrowany na:
+
+    * **Analiza Danych:** Wykorzystanie AI do zaawansowanego przetwarzania danych i generowania wniosków biznesowych.
+
+    * **Automatyzacja Biznesu:** Wdrażanie rozwiązań zwiększających produktywność i automatyzację procesów (workflow) przy użyciu AI.
+
+    * **Rozwiązania Chmurowe:** Praktyczne zastosowanie narzędzi Google Cloud AI w rozwoju przedsiębiorstw.
+
+* **Google AI Essentials** – Fundamenty inżynierii promptów (prompt engineering), etyka sztucznej inteligencji oraz biegłość w obsłudze kluczowych narzędzi generatywnej AI.
+
+
+
+---
+
+
+
+### 🇬🇧 Professional Certifications 🎓
+
+
+* **Skills of Tomorrow: AI (Google & SGH)** – Advanced 5-week cohort program focused on:
+
+    * **Data Analysis:** Leveraging AI for advanced data processing and extracting actionable business insights.
+
+    * **Business Automation:** Implementing AI-driven productivity hacks and workflow automation.
+
+    * **Cloud Solutions:** Practical application of Google Cloud AI solutions for business growth.
+
+* **Google AI Essentials** – Foundational mastery in prompt engineering, AI ethics, and core generative AI tools.
+
+
+---
+
+**Narzędzia i technologie** / **Tools & Technologies:**
+`Gemini` • `Google Cloud Vertex AI` • `Prompt Engineering` • `AI-Driven Analytics` • `Automation Tools` • `NotebookLM` • `StitchAI`• `VSCode` • `Android Studio` • `Antigravity`
+
+---
+
 ### 💻 Mój Stack / My Vibe Ecosystem
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,dart,kotlin,nodejs" alt="My Skills" />

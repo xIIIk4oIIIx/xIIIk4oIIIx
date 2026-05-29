@@ -1,4 +1,4 @@
-# ⚡ Cześć / Hello World, I'm k4o!
+# ⚡ Cześć / Hello World, I'm k4o system coordinator.
 
 <p align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">

@@ -8,9 +8,9 @@
 
 ### 📜 Manifesto
 
-🇵🇱 **VibeCoder:** Z pasją tworzę oprogramowanie, wykorzystując potencjał sztucznej inteligencji do dostarczania rozwiązań, które automatyzują procesy i rozwiązują realne problemy. Moje doświadczenie obejmuje pełne spektrum projektów – od skryptów w języku Python po zaawansowane aplikacje na platformy Smart TV.
+🇵🇱 Z pasją tworzę oprogramowanie, wykorzystując potencjał sztucznej inteligencji do dostarczania rozwiązań, które automatyzują procesy i rozwiązują realne problemy. Moje doświadczenie obejmuje pełne spektrum projektów – od skryptów w języku Python po zaawansowane aplikacje na platformy Smart TV.
 
-🇬🇧 **VibeCoder:** I passionately develop software, leveraging AI to deliver solutions that automate workflows and solve complex real-world problems. My expertise covers a comprehensive range of projects, from developing Python scripts to engineering advanced Smart TV applications.
+🇬🇧 I passionately develop software, leveraging AI to deliver solutions that automate workflows and solve complex real-world problems. My expertise covers a comprehensive range of projects, from developing Python scripts to engineering advanced Smart TV applications.
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 💻 Mój Stack / My Vibe Ecosystem
+### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,flutter,dart,kotlin,nodejs" alt="My Skills" />
 </p>
